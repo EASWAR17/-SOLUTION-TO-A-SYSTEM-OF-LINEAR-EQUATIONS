@@ -23,7 +23,7 @@ X2 = np.linalg.solve(A,B)
 print(X2)
 ```
 ## Output:
-![output](./s1.png)
+![output](./s1.PNG)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
